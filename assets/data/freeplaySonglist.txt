@@ -2,6 +2,7 @@ Revenge:gf-christmas:1
 Uoh:tuxsteve:2
 Craft Away:tuxsteve:2
 Suit Up:steve-armor:2
+eyes:herobrine:2
 Overseen:alexchill:3
 Iron Picks:alexpickaxe:3
 Underrated:alex:3
